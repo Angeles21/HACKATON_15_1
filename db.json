@@ -1,0 +1,75 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "url": "./src/assets/vid_1.png",
+      "artist": "Yo-yo",
+      "name": "ハツコイソウ / FLG4",
+      "View": 0,
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+    },
+    {
+      "id": 2,
+      "url": "./src/assets/vid_2.png",
+      "artist": "Yo-yo",
+      "name": "弦巻マキ「大義名分」MV",
+      "view": 0,
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+    },
+    {
+      "id": 3,
+      "url": "./src/assets/vid_3.png",
+      "artist": "Yo-yo",
+      "name": "ギャンブル",
+      "view": 0,
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+    },
+    {
+      "id": 4,
+      "url": "./src/assets/vid_4.png",
+      "artist": "Yo-yo",
+      "name": "オープニング映像",
+      "view": 0,
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+    },
+    {
+      "id": 5,
+      "url": "./src/assets/vid_5.png",
+      "artist": "Yo-yo",
+      "name": "ビータ / かいりきベア×缶缶",
+      "view": 0,
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+    },
+    {
+      "id": 6,
+      "url": "./src/assets/vid_6.png",
+      "artist": "Yo-yo",
+      "name": "アングレイデイズ",
+      "view": 0,
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+    },
+    {
+      "id": 7,
+      "url": "./src/assets/vid_7.png",
+      "artist": "Yo-yo",
+      "name": "フロムナインス",
+      "view": 0,
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+    },
+    {
+      "id": 8,
+      "url": "./src/assets/vid_8.png",
+      "artist": "Yo-yo",
+      "name": "テレキャスタービーボーイ",
+      "view": 0,
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna vehicula, maximus diam rhoncus, facilisis neque. Nulla sed congue ipsum. Aliquam pharetra, velit vitae sodales condimentum, nulla urna eleifend diam, vitae rhoncus sem nisi non orci."
+    },
+    {
+      "name": "eqwe",
+      "view": 0,
+      "url": "../assets/vid_8.png",
+      "about": "qweqwe",
+      "id": 9
+    }
+  ]
+}
